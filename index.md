@@ -1,3 +1,13 @@
+---
+layout: page
+title: Example Landing Page
+subtitle: This is an example landing page with callouts
+hero_height: is-large
+hero_link: /page-1/
+hero_link_text: Example Call To Action
+show_sidebar: false
+callouts: example_callouts
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Aixway/AixwayTradePages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
