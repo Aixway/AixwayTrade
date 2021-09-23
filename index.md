@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
+title: Aixway - Trade
+subtitle: Care For your Buisiness
 hero_height: is-large
-hero_link: /page-1/
-hero_link_text: Example Call To Action
 show_sidebar: false
 callouts: example_callouts
 ---
