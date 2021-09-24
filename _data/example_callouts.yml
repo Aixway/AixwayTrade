@@ -8,7 +8,7 @@ items:
       The example description text goes here and can be multiple lines.
       For example, such as this. 
     
-  - title: Business Deligation
+  - title: Commodity Deligation
     subtitle: Example subtitle 2
     icon: fa-truck-loading
     description: >
@@ -17,7 +17,7 @@ items:
     
   - title: Technology Communication
     subtitle: Example subtitle 3
-    icon: fa-users
+    icon: fas fa-users
     icon_brand: true
     description: >
       The example description text goes here and can be multiple lines.
