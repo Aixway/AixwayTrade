@@ -5,6 +5,7 @@ subtitle: Care For your Buisiness
 hero_height: is-large
 show_sidebar: false
 callouts: example_callouts
+hide_footer: true
 ---
 
 
