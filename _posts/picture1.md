@@ -1,3 +1,3 @@
 ---
-image: /picture1.jpg
+image: /picture.jpg
 ---
