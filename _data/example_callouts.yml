@@ -1,8 +1,7 @@
 style: is-light
 height: is-medium
 items:
-  - title: International
-    subtitle: Trade
+  - title: International Trade
     icon: fa-space-shuttle
     
     
