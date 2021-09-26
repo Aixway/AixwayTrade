@@ -2,24 +2,12 @@ style: is-light
 height: is-medium
 items:
   - title: International Trade
-    subtitle: Example subtitle 1
     icon: fa-space-shuttle
-    description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this. 
+    
     
   - title: Commodity Deligation
-    subtitle: Example subtitle 2
     icon: fa-truck-loading
-    description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
     
   - title: Technology Communication
-    subtitle: Example subtitle 3
-    icon: fas fa-users
-    icon_brand: true
-    description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
+    icon: fa-users
     
