@@ -1,11 +1,11 @@
 {% if page.callouts %}
     {% assign callouts=site.data.[page.callouts] %}
-    <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}" style="padding:5rem 1.5rem;">
+    <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
         <div class="hero-body">
             <div class="container">
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
-                        <div class="column is-4 has-text-centered">
+                        <div class="column is-4 has-text-centered"  style="padding:5rem 0rem;">
                             {% if callout.icon %}
                             <div class="icon callout-icon">
                             {% if callout.icon_brand %}
