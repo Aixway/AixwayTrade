@@ -16,5 +16,5 @@ hide_footer: true
 
 ## Contact Us
 
-- Address：5th factory | 101st chenmenjing road | Chenxiang County | Taicang City | Suzhou City | Jiangsu Province | China 
+- Address：5th factory 101st chenmenjing road Chenxiang County Taicang City Suzhou City Jiangsu Province China 
 - Email：info@aixwaytrade.ltd
