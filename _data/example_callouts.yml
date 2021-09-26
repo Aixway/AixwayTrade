@@ -1,6 +1,5 @@
 style: is-light
 height: is-small
-style: padding: 5rem 1.5rem
 items:
   - title: International Trade
     icon: fa-space-shuttle
