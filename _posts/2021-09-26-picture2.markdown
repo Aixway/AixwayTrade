@@ -1,3 +1,3 @@
 ---
-image: https://www.csrhymes.com/img/example-docs-page.jpg
+image: /picture2.jpg
 ---
